@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Update the main website landing page with new branding and a clearer call to action.",
+    "customer": "Tech Solutions Inc.",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": 1002,
+    "title": "Database Optimization for Analytics",
+    "description": "Review and optimize SQL queries and indexing for faster report generation in the analytics module.",
+    "customer": "Data Insights Co.",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-03T14:30:00Z"
+  },
+  {
+    "id": 1003,
+    "title": "Mobile App Bug Fix: Login Error",
+    "description": "Users are intermittently receiving a '401 Unauthorized' error when attempting to log in on the iOS app.",
+    "customer": "Apex Retail Group",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "2025-09-05T09:15:00Z"
+  },
+  {
+    "id": 1004,
+    "title": "Implement Two-Factor Authentication (2FA)",
+    "description": "Add 2FA option for all user accounts to enhance security.",
+    "customer": "Secure Finance Ltd.",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-07T11:45:00Z"
+  },
+  {
+    "id": 1005,
+    "title": "Update API Documentation",
+    "description": "Revise and update the documentation for the V2 Public API endpoints.",
+    "customer": "Developer Hub",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-08T16:00:00Z"
+  },
+  {
+    "id": 1006,
+    "title": "New Feature: Dark Mode Toggle",
+    "description": "Add a user-controlled toggle switch to enable a dark theme across the application interface.",
+    "customer": "Creative Minds Studio",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "2025-09-10T13:10:00Z"
+  },
+  {
+    "id": 1007,
+    "title": "Server Migration to Cloud Platform",
+    "description": "Plan and execute the migration of on-premise servers to AWS/Azure cloud infrastructure.",
+    "customer": "Global Logistics Corp.",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-12T08:00:00Z"
+  },
+  {
+    "id": 1008,
+    "title": "Accessibility (A11y) Audit and Fixes",
+    "description": "Conduct a comprehensive audit and implement fixes to meet WCAG 2.1 Level AA standards.",
+    "customer": "Public Services Agency",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-14T17:20:00Z"
+  },
+  {
+    "id": 1009,
+    "title": "Refactor User Profile Module Code",
+    "description": "Clean up legacy code in the user profile section to improve maintainability and performance.",
+    "customer": "Internal Maintenance",
+    "priority": "LOW PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-15T10:40:00Z"
+  },
+  {
+    "id": 1010,
+    "title": "Setup Automated Email Reports",
+    "description": "Configure system to automatically send weekly performance reports to key stakeholders via email.",
+    "customer": "Marketing Department",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-17T12:50:00Z"
+  },
+  {
+    "id": 1011,
+    "title": "Fix Broken Link on Footer",
+    "description": "The 'Privacy Policy' link in the website footer is currently leading to a 404 error page.",
+    "customer": "Legal Team",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-19T09:30:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Integrate Third-Party Payment Gateway",
+    "description": "Add support for a new payment provider (e.g., Stripe/PayPal) on the checkout page.",
+    "customer": "E-commerce Solutions",
+    "priority": "HIGH PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-20T14:00:00Z"
+  }
+]
